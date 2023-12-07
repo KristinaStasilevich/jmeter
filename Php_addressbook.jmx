@@ -644,7 +644,7 @@
                   <stringProp name="Argument.metadata">=</stringProp>
                   <boolProp name="HTTPArgument.use_equals">true</boolProp>
                   <stringProp name="Argument.name">selected[]</stringProp>
-                  <stringProp name="Argument.value">group_id</stringProp>
+                  <stringProp name="Argument.value">${group_id}</stringProp>
                 </elementProp>
                 <elementProp name="delete" elementType="HTTPArgument">
                   <boolProp name="HTTPArgument.always_encode">false</boolProp>
